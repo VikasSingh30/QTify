@@ -1,4 +1,4 @@
-🎧 Qtify – Music Streaming Web App
+# 🎧 **Qtify – Music Streaming Web App** 🚀
 
 Qtify is a dynamic and responsive music streaming interface built with React, powered by Vite for fast development and custom styling. The app fetches and displays music albums and songs with real-time filtering, inspired by Spotify-like UI experiences.
 
